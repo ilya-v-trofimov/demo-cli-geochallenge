@@ -1,0 +1,110 @@
+[
+  {
+    "Pcode": 2000,
+    "Locality": "BARANGAROO",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 151.2015,
+    "Latitude": -33.8614
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "HAYMARKET",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 151.2045,
+    "Latitude": -33.8814
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "PARLIAMENT HOUSE",
+    "State": "NSW",
+    "Comments": "SYDNEY",
+    "Category": "Delivery Area",
+    "Longitude": null,
+    "Latitude": null
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "SYDNEY",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 151.2099,
+    "Latitude": -33.8697
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "SYDNEY SOUTH",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": null,
+    "Latitude": null
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "THE ROCKS",
+    "State": "NSW",
+    "Comments": "SYDNEY",
+    "Category": "Delivery Area",
+    "Longitude": 151.208,
+    "Latitude": -33.8592
+  },
+  {
+    "Pcode": 2113,
+    "Locality": "MACQUARIE CENTRE",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": null,
+    "Latitude": null
+  },
+  {
+    "Pcode": 2113,
+    "Locality": "MACQUARIE PARK",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 151.1242,
+    "Latitude": -33.7787
+  },
+  {
+    "Pcode": 2153,
+    "Locality": "BAULKHAM HILLS",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 150.9828,
+    "Latitude": -33.7544
+  },
+  {
+    "Pcode": 2153,
+    "Locality": "NORWEST",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": null,
+    "Latitude": null
+  },
+  {
+    "Pcode": 3333,
+    "Locality": "REMOTE SUBURB",
+    "State": "VIC",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 144.9646,
+    "Latitude": -37.8112
+  },
+  {
+    "Pcode": 4000,
+    "Locality": "BRISBANE CITY",
+    "State": "QLD",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 153.0258,
+    "Latitude": -27.4704
+  }
+]

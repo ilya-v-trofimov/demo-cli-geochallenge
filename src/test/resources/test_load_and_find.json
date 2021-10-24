@@ -1,0 +1,38 @@
+[
+  {
+    "Pcode": 2000,
+    "Locality": "SYDNEY",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Delivery Area",
+    "Longitude": 151.2099,
+    "Latitude": -33.8697
+  },
+  {
+    "Pcode": 2000,
+    "Locality": "SYDNEY SOUTH",
+    "State": "NSW",
+    "Comments": "",
+    "Category": "Test",
+    "Longitude": null,
+    "Latitude": null
+  },
+  {
+    "Pcode": 4000,
+    "Locality": "BRISBANE CITY",
+    "State": "QLD",
+    "Comments": "test",
+    "Category": "Delivery Area",
+    "Longitude": 153.0258,
+    "Latitude": -27.4704
+  },
+  {
+    "Pcode": 3000,
+    "Locality": "MELBOURNE",
+    "State": "VIC",
+    "Comments": null,
+    "Category": "Delivery Area",
+    "Longitude": 144.9646,
+    "Latitude": -37.8112
+  }
+]
