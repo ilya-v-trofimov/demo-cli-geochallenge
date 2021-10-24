@@ -1,4 +1,33 @@
-# NurtureCloud Backend Challenge
+# Backend Geo-Challenge Implementation
+Project is implemented using following stack:
+- Kotlin 1.5
+- Java 11
+- Junit 5
+- Jackson 2
+## Prerequisites:
+Following tools are required to build and run the project:
+- Maven 3.x
+- Java SDK 11
+## Build/Test/Package:
+Run following command to build the project:
+- `mvn clean install`
+
+## Run
+Run following command to run the application:
+`java -jar ./target/backend-challenge-1.0-SNAPSHOT-jar-with-dependencies.jar`
+
+# Potential improvements:
+- Add command line parameters to provide the data file name externally
+- Load data file in the background while user enters suburb parameters
+- Load data to MongoDB and use GeoJSON types and functions to perform search/find operations
+- Add a cache mechanism to avoid (or minimise) runtime distance calculations
+- Assuming that the suburbs data is (nearly) static, it's possible to build a full map of nearest/fringe suburbs list for each of the suburbs. This will eliminate the need for calculations (improve CPU), but will require additional memory/storage to handle the map
+- Add Dockerfile to containerise application for CI/CD and/or local development
+- Add checkstyle validation
+
+====================
+# ORIGINAL README:
+# Backend Challenge
 
 ## Scenario
 
@@ -76,7 +105,3 @@ Fringe Suburbs
 * Please answer in either Java (8+) or Kotlin
 * This challenge should take 2-3 hours.
 
-## Submission
-
-* Zip up your file.
-* Send to michal@nurturecloud.com
